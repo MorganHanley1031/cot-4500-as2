@@ -6,4 +6,4 @@ To run this program "assignment_2.py" in the command line, you will first need t
 
 python "C:\Users\Username\Desktop\src\main\assignment_2.py"
 
-This program will find the values of given sets of data using following methods Neville’s method, ewton’s forward method,  cubic spline interpolation.
+This program will find the values of given sets of data using following methods Neville’s method, newton’s forward method,  cubic spline interpolation.
